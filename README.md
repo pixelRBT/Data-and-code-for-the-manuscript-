@@ -1,4 +1,4 @@
-# Data-and-code-for-the-manuscript-
+# Data-and-code-for-the-manuscript-To what extent are the source mixing models accurate: evaluation of the model accuracy and guidelines for the site-specific model selection
 Data and codes for the manuscript To what extent are the source mixing models accurate: evaluation of the model accuracy and guidelines for the site-specific model selection
 This data includes the isotope mixing scenarios and the machine learning models used in the paper entitled To what extent are the source mixing models accurate: evaluation of the model accuracy and guidelines for the site-specific model selection which have been submitted to the journal Water Resource Research. These scenarios were presumptively created to evaluate the accuracy of the isotope source mixing models, i.e. IsoSource, MixSIR, SIMMR, and MixSIAR. The machine learning models are established for the prediction of model estimation bias in field studies.
 
